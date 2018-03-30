@@ -1,0 +1,8 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+*.pyc
+terraform.tfstate.backup
+# Module directory
+.terraform/
+.vscode/
